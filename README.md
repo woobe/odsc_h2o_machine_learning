@@ -21,10 +21,12 @@ Speaker: Jo-fai (Joe) Chow
 
 ### Content
 
-- Tutorial 1: Data in H2O
-- Tutorial 2: Basic Data Transformation
-- T.B.C.
-
+1. Data in H2O
+2. Basic Data Manipulation
+3a. Regression Models (Basic)
+3b. Regression Models (Advanced)
+4a. Classification Models (Basic)
+4b. Classification Models (Advanced)
 
 ### Converting Jupyter notebook into Python or R Script
 
