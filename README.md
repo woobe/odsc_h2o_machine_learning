@@ -23,10 +23,9 @@ Speaker: Jo-fai (Joe) Chow
 
 1. Data in H2O
 2. Basic Data Manipulation
-3a. Regression Models (Basic)
-3b. Regression Models (Advanced)
-4a. Classification Models (Basic)
-4b. Classification Models (Advanced)
+3. Regression Models (Basic & Advanced)
+4. Classification Models (Basic & Advanced)
+
 
 ### Converting Jupyter notebook into Python or R Script
 
